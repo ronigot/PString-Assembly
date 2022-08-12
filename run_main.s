@@ -1,4 +1,3 @@
-// 322805029 Roni Gotlib
 .data
 scanf_num:
     .string  "%hhu"
