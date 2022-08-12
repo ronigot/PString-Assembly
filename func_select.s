@@ -1,4 +1,3 @@
-// 322805029 Roni Gotlib
 .section    .rodata
 printf_pstrlen:
     .string "first pstring length: %d, second pstring length: %d\n"
